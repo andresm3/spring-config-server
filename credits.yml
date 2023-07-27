@@ -2,7 +2,7 @@ server:
   port: 8083
 management:
   server:
-    port: 9001
+    port: 9083
     address: 127.0.0.1
 spring:
   data:
