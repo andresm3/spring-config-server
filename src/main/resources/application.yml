@@ -4,13 +4,9 @@ server:
 spring:
   application:
     name: config-server
-  security:
-    user: nttdata
-    password: nttd4t4
   cloud:
     config:
       server:
         git:
           uri: https://github.com/andresm3/spring-config-server.git
-          search-paths: /
-          default-levels: "main"
+          search-paths: /config-git
