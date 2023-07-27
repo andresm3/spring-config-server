@@ -9,4 +9,4 @@ spring:
       server:
         git:
           uri: https://github.com/andresm3/spring-config-server.git
-          search-paths: /config-git
+          search-paths: /
