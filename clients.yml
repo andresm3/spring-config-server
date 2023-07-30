@@ -1,6 +1,5 @@
 server:
   port: 8080
-  address: 10.0.0.69
 management:
   server:
     port: 9080
