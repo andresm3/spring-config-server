@@ -10,3 +10,5 @@ spring:
       database: bootcamp
       port: '27017'
       host: localhost
+      user: root
+      password: rootpassword
