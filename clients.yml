@@ -1,8 +1,8 @@
 server:
-  port: 8085
+  port: 8080
 management:
   server:
-    port: 9085
+    port: 9080
     address: 127.0.0.1
 spring:
   data:
